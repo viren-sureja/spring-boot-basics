@@ -1,0 +1,4 @@
+<--- in pom.xml --->
+
++ *parent* specify which version of jars to install
++ *dependencies* specify which jats to install
